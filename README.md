@@ -1,6 +1,6 @@
 # Firefds Kit [Q]
 
-Xposed module for Samsung Q devices.
+Xposed module for Samsung Q (Android 10) devices.
 
 ## Features
 The module has the following features:
